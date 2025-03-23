@@ -4,7 +4,7 @@ Proyecto desarrollado para CoderHouse donde usamos comandos Javascript como ser 
 
 Utilice bootstrap de forma local.
 
-GitHub Page: https://gdlizarraga.github.io/coderhouse-entrega-final/
+GitHub Page: https://gdlizarraga.github.io/coderhouse-js-primer-entrega/
 
 El proyecto tiene 2 páginas:
 
