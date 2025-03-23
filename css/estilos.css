@@ -1,0 +1,149 @@
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* estilos generales */
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  background-color: #f9f9f9;
+  color: #27445d;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #27445d;
+}
+header a img {
+  border-right: 4px solid #b5640b;
+}
+header nav {
+  padding: 0.5rem;
+  width: 100%;
+}
+header nav ul {
+  color: whitesmoke;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+}
+header nav ul li a {
+  text-decoration: none;
+  color: #9fa2a4;
+}
+header nav ul li a:hover {
+  color: #cacbcc;
+}
+
+.ch-alert-primary {
+  background-color: #71bbb2;
+  color: #efe9d5;
+  border: 1px solid #71bbb2;
+}
+
+.ch-btn-primary:hover {
+  background-color: #71bbb2;
+  color: #efe9d5;
+  border: 1px solid #497d74;
+}
+
+.ch-btn-finalizar-compra {
+  background-color: #27445d;
+  color: #efe9d5;
+  border: 1px solid #497d74;
+}
+.ch-btn-finalizar-compra:hover {
+  background-color: #27445d;
+  color: #efe9d5;
+  border: 1px solid #497d74;
+}
+
+.ch-alert-link {
+  color: #497d74;
+}
+
+.ch-paleta {
+  cursor: pointer;
+}
+
+.ch-btn-primary {
+  background-color: #497d74;
+  color: #efe9d5;
+  border: 1px solid #71bbb2;
+}
+
+.ch-btn-primary:hover {
+  background-color: #71bbb2;
+  color: #efe9d5;
+  border: 1px solid #497d74;
+}
+
+.link_active {
+  color: #fff;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 3rem;
+  margin-left: 7rem;
+  margin-right: 7rem;
+  flex-direction: column;
+  flex: 1;
+}
+main div {
+  width: 100%;
+}
+
+/* pagina de servicios */
+.servicios {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.servicios__item {
+  flex: 1 1 calc(50% - 20px);
+  box-sizing: border-box;
+}
+
+.servicios__img {
+  width: 20%;
+  float: left;
+  padding: 4px;
+}
+
+.servicios__img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.servicios__texto {
+  width: 80%;
+  float: left;
+}
+
+.espacio_footer {
+  height: 2rem;
+}
+
+footer {
+  text-align: center;
+  color: #fff;
+  margin-top: 1.5;
+  background-color: #6c757d;
+  height: 30px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
