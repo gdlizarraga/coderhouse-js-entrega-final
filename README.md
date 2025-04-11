@@ -6,14 +6,12 @@ Utilice bootstrap de forma local.
 
 GitHub Page: https://gdlizarraga.github.io/coderhouse-js-primer-entrega/
 
-El proyecto tiene 2 páginas:
+El proyecto tiene 1 páginas:
 
 ## Carrito de Compras normal
 
 En esta página se uso funciones y métodos convencionales de javascript para darle vida al Carrito de Compra.
-Hay un link que abre un modal (bootstrap) que muestra la paleta que se uso.
-
-## Carrito de Compras con sweetalert2
-
-En esta página se uso la libreria de sweetalert2 que da una layout mas lindo hacia el usuario en cuanto al prompt, alert y confirm.
-Hay un link que abre un modal (bootstrap) que muestra la paleta que se uso.
+Se utilizo un array donde se setean todos los productos con su precio e imagenes.
+Se pide el usuario apenas ingresa al sitio y luego se lo guarda en localstorage
+Permite agregar productos al carrito, quitar uno a uno y sumar uno a uno a la lista de los productos agregados.
+Al finalizar la compra muestra un alert que para ellos se uso la libreria sweetalert2
