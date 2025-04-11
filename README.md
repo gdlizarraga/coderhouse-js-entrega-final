@@ -1,6 +1,6 @@
 # CoderHouse Proyecto Javascript - Segunda Entrega
 
-Proyecto desarrollado para CoderHouse donde usamos comandos Javascript como ser prompt, if, array, objetos, iteradores. Se trata de un Carrito de Compras en el cual te permite elegir diferenetes productos y su cantidad y al final te suma y te dice el total por cada uno que elegiste.
+Proyecto desarrollado para CoderHouse donde usamos comandos Javascript, eventos, localstorage, array, metodos de array como ser find, reduce, filter, map, iteradores. Se trata de un Carrito de Compras en el cual te permite elegir diferenetes productos y su cantidad y al final te suma y te dice el total por cada uno que elegiste.
 
 Utilice bootstrap de forma local.
 
