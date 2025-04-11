@@ -8,7 +8,7 @@ GitHub Page: https://gdlizarraga.github.io/coderhouse-js-primer-entrega/
 
 El proyecto tiene 1 páginas:
 
-## Carrito de Compras normal
+## Carrito de Compras
 
 En esta página se uso funciones y métodos convencionales de javascript para darle vida al Carrito de Compra.
 Se utilizo un array donde se setean todos los productos con su precio e imagenes.
