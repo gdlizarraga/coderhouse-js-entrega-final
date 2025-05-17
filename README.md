@@ -24,7 +24,7 @@ Se trata de un Carrito de Compras en el cual te permite elegir diferenetes produ
 
 Utilice bootstrap de forma local.
 
-GitHub Page:https://gdlizarraga.github.io/coderhouse-js-segunda-entrega/
+GitHub Page:https://gdlizarraga.github.io/coderhouse-js-entrega-final/
 
 El proyecto tiene 1 páginas:
 
