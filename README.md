@@ -1,14 +1,23 @@
 # CoderHouse Proyecto Javascript - Entrega Final
 
 Proyecto desarrollado para CoderHouse donde usamos comandos Javascript, eventos, localstorage, array, metodos de array como ser find, reduce, filter, map, iteradores.
+
 Se uso Promise para llamar a una api y cargar los productos e imagenes.
+
 Se utilizo la api https://fakestoreapi.com/products para cargar las imagenes.
+
 Se uso swetalert2 para mejorar la experiencia de usuario y interfaz.
+
 Se utilizo try-catch en el llamado de la api por si da error. Emite un alert de tipo swetalert2 indicando el error.
-Se emite un error utilizando "throw new Error"
+
+Se emite un error utilizando "throw new Error".
+
 Se utilizo Toastify para los mensajes flotantes.
+
 Se utilizo fontawesome para lo iconos en los botones.
+
 Se utilizo luxon para poner la fecha y hora del dia. Se puso un reloj en el header.
+
 Se utilizo setInterval para mantener actualizado el reloj.
 
 Se trata de un Carrito de Compras en el cual te permite elegir diferenetes productos y su cantidad y al final te suma y te dice el total por cada uno que elegiste.
