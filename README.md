@@ -31,7 +31,11 @@ El proyecto tiene 1 páginas:
 ## Carrito de Compras
 
 En esta página se uso funciones y métodos convencionales de javascript para darle vida al Carrito de Compra.
+
 Se utilizo una api de donde se obtiene todos los productos con su precio, descripción e imagenes.
-Se pide el usuario apenas ingresa al sitio y luego se lo guarda en localstorage
+
+Se pide el usuario apenas ingresa al sitio y luego se lo guarda en localstorage.
+
 Permite agregar productos al carrito, quitar uno a uno y sumar uno a uno a la lista de los productos agregados.
+
 Al finalizar la compra muestra un alert que para ellos se uso la libreria sweetalert2
